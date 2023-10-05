@@ -18,8 +18,8 @@ export default function Group({
 					width={300}
 					className="object-fill"
 				/>
-				<div className=" w-full">
-					<h1 className="text-heading md:text-sm lg:text-medium ">
+				<div className="p-1 w-full">
+					<h1 className="font-medium text-heading md:text-sm lg:text-medium ">
 						{title}
 					</h1>
 					<p className="text-desc font-light md:text-xs lg:text-sm">
