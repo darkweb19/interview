@@ -34,7 +34,7 @@ export default function Home() {
 			<div className=" flex-col items-center justify-center">
 				{/* heading section */}
 				<div className="text-center text-mobile md:text-base lg:text-3xl  ">
-					<h1>INNOVESION : WHERE DESIGN</h1>
+					<h1>INNOVACIÓN : WHERE DESIGN</h1>
 					<h1 className="">MEETS CODE</h1>
 				</div>
 				<div className=" flex justify-center">
